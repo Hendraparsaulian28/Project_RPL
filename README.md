@@ -4,8 +4,6 @@
 ## Kelas: T.I 22A3
 ## Sistem Penyewaan Kendaraan
 ```py
-
-
 <!DOCTYPE HTML>
 <html lang="en">
 <head>
