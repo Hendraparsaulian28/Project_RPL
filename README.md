@@ -400,4 +400,4 @@ return true;
 </html>
 ```
 ## output
-!(https://github.com/Hendraparsaulian28/Project_RPL/blob/main/Capture.PNG)
+![https://github.com/Hendraparsaulian28/Project_RPL/blob/main/Capture.PNG]
